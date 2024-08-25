@@ -11,7 +11,7 @@
             </h2>
             <div class="mt-12">
               <a
-                href="https://www.creative-tim.com/learning-lab/tailwind/js/overview/notus?ref=njs-index"
+                href="{{ route('login') }}"
                 target="_blank"
                 class="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-e4a01b active:bg-9a652f text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
               >
