@@ -22,8 +22,7 @@
         </div>
       </div>
 
-      <img class="absolute top-0 right-0 pt-16 sm:w-6/12 -mt-48 sm:mt-0 w-10/12 h-full object-cover" src="./assets/img/landingpnk.png" alt="...">
-
+      <img class="absolute top-0 right-0 pt-16 sm:block hidden sm:w-6/12 -mt-48 sm:mt-0 w-10/12 h-full object-cover" src="./assets/img/landingpnk.png" alt="...">
     </section>
 
     <section class="pt-20 pb-48">
