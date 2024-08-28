@@ -11,7 +11,7 @@
       href="../../assets/img/apple-icon.png"
     />
     @include('layouts.partials.admin.link')
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>{{ config('app.name', 'SPK') }}</title>
   </head>
   <body class="text-blueGray-700 antialiased">
   <div id="root">
